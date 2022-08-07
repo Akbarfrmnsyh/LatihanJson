@@ -1,0 +1,33 @@
+var jsonObject  = {
+    "products": [
+      {
+        "id": "123",
+        "perusahaan": "Prosigmaka",
+        "nama": "Sukiman bin isnani",
+        "image":"images/image1.png",
+        "posisi": "Junior Programeer"
+      },
+      {
+        "id": "456",
+        "perusahaan": "PS Mandiri",
+        "nama": "Slamet Dunio akhirat",
+        "image":"images/image2.png",
+        "posisi": "Customer Service"
+      },
+      {
+        "id": "789",
+        "perusahaan": "Pro Sigmaka",
+        "nama": "Nurhadi aldo",
+        "image":"images/image3.png",
+        "posisi": "Sales engineer"
+      },
+      {
+        "id": "741",
+        "perusahaan": "Prosigmaka Mandiri",
+        "nama": "Agus RIyawan",
+        "image":"images/image4.png",
+        "posisi": "Teknisi Laptop"
+      }
+    ]
+  }
+  
