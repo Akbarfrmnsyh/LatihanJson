@@ -3,7 +3,7 @@ var jsonObject  = {
       {
         "id": "123",
         "perusahaan": "Prosigmaka",
-        "nama": "Sukiman bin isnani",
+        "nama": "Sukiman Sukijan",
         "image":"images/image1.png",
         "posisi": "Junior Programeer"
       },

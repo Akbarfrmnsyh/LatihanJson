@@ -1,6 +1,6 @@
 $(document).ready(function(e){
 
-    jsonObject.cardname((i)=>loadCards(i));
+    jsonObject.products((i)=>loadCards(i));
 
 });
 
